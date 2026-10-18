@@ -1,46 +1,38 @@
 # Task 1: Visual Prompt Engineering
 
-## Prompt 1: Cinematic Portrait
+## 1. Project Title
 
-**Objective:** Create a realistic cinematic portrait of a young South Asian woman.
+Ultra-Realistic Cinematic Portrait at Golden Hour
 
-**Prompt:**
+## 2. Objective
 
-Create an ultra-realistic cinematic portrait of a young South Asian woman standing on a rooftop at sunset. She has long, naturally wavy dark hair and wears an elegant black outfit with subtle silver details. Her body is turned slightly sideways, with her face gently turned toward the camera and a natural, confident expression. Use warm golden-hour lighting, soft shadows, realistic skin texture, shallow depth of field, an 85mm portrait lens, and a softly blurred city background. Maintain natural facial proportions and realistic details.
+To create a realistic and cinematic portrait of a young South Asian woman using a detailed AI image-generation prompt.
 
-**Style:** Ultra-realistic, cinematic photography.
+## 3. AI Image Generation Prompt
 
-**Lighting:** Warm golden-hour lighting.
+Create an ultra-realistic, cinematic photograph of a beautiful young South Asian woman standing on a rooftop during golden hour at sunset. She has long, naturally wavy dark black hair flowing gently in the evening breeze, realistic skin texture, natural facial features, expressive dark eyes, and a calm, confident expression. She is wearing an elegant black outfit with delicate silver embroidery and subtle silver accessories.
 
-**Composition:** Vertical portrait with a softly blurred background.
+Her body is turned slightly sideways while her face is gently turned toward the camera. Capture a natural, relaxed pose with realistic body proportions and authentic facial details.
 
-**Expected Result:** A natural-looking, cinematic portrait with realistic skin texture and warm sunset lighting.
+Use warm golden-hour sunlight, soft shadows, natural highlights on the face, a softly blurred urban background, shallow depth of field, professional portrait photography, an 85mm lens look, realistic colors, fine details, and cinematic composition. The final image should look like a real photograph, not a digital painting or illustration.
 
-## Prompt 2: Traditional Garba Portrait
+## 4. Prompt Engineering Techniques Used
 
-**Objective:** Create a realistic traditional Indian Garba-night portrait.
+* **Subject Description:** Defined the subject and appearance.
+* **Clothing Details:** Specified a black outfit with silver embroidery.
+* **Lighting:** Used warm golden-hour sunset lighting.
+* **Pose and Composition:** Described the body position and facial direction.
+* **Camera Style:** Specified an 85mm portrait lens look and shallow depth of field.
+* **Realism:** Included natural skin texture, realistic proportions, and authentic details.
 
-**Prompt:**
+## 5. Expected Output
 
-Create an ultra-realistic candid vertical 9:16 photograph of a young South Asian woman at a crowded Indian Garba celebration during Navratri. She stands in the foreground, wearing a fitted black sleeveless choli with silver trim and a full, flowing black lehenga with rich red-gold traditional details. Her long, dark, wavy hair falls naturally over her shoulders. Use realistic festive lighting, detailed traditional clothing, natural skin texture, and a softly blurred crowd in the background. Capture an authentic festive atmosphere with natural body proportions and realistic photographic details.
+A high-quality, ultra-realistic cinematic portrait with natural facial features, elegant clothing, warm sunset lighting, and a softly blurred rooftop background.
 
-**Style:** Ultra-realistic festive photography.
+## 6. Result
 
-**Lighting:** Warm Indian festival lighting.
+The AI-generated image will be saved in the `images/` folder of this project.
 
-**Composition:** Vertical 9:16 full-body portrait.
+## 7. Learning Outcome
 
-**Expected Result:** A realistic traditional Garba portrait with detailed clothing and a lively festive background.
-
-## Prompt Engineering Techniques Used
-
-* Subject description
-* Clothing and appearance details
-* Lighting and camera settings
-* Background and composition
-* Photography style
-* Expected visual outcome
-
-## Notes
-
-The prompts can be refined by adjusting lighting, camera angle, background details, clothing descriptions, and composition to improve the generated images.
+This task demonstrates how clear subject descriptions, lighting instructions, clothing details, pose, and camera-style keywords can influence the quality and appearance of AI-generated images.
